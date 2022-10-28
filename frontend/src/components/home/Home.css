@@ -1,0 +1,4 @@
+.bills{
+    display: flex;
+    flex-direction: row;
+}
